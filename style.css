@@ -1,0 +1,51 @@
+body{
+	background-color:#cce;
+}
+.middle-xs {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display:flex;
+}
+
+.bgrondzik{
+	background-color:#3b4351;
+	color:white;
+}
+
+.doprawejt{
+	text-align:right;
+	width:100%;
+}
+
+.doprawejd{
+	float:right;
+}
+
+.dolewejd{
+	float:left;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px #3b4351;
+}
+
+.tytul{
+	text-align:center;
+	color:#cce !important;
+}
+
+.obr{
+	display:flex;
+	height:10rem;
+	text-align:center;
+	border-radius:50%;
+}
+
+a{
+	color:#cce !important;
+}
+a:hover{
+	color:#fff !important;
+}
+
