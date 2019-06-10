@@ -10,12 +10,23 @@ body{
 
 .bgrondzik{
 	background-color:#3b4351;
-	color:white;
+	color:#cce;
+}
+
+.bgrondzikdwa{
+	background-color:#cce;
+	color:#3b4351;
 }
 
 .doprawejt{
 	text-align:right;
 	width:100%;
+}
+
+.dolewejt{
+	text-align:left;
+	width:100%;
+	
 }
 
 .doprawejd{
@@ -48,4 +59,37 @@ a{
 a:hover{
 	color:#fff !important;
 }
+
+p {
+	margin-left:1rem;
+	margin-bottom:0.5rem;
+	
+	
+}
+
+.obrazek{
+	display:block;
+	overflow: auto;
+	margin:1rem;
+	
+}
+
+.dolcz{
+	padding-top:1rem;
+	
+}
+
+.padzero{
+	padding-top:0rem;
+	
+}
+
+h4{
+	margin-left:1rem;
+}
+
+.bloczek{
+	padding-top:5rem;
+}
+
 
